@@ -26,6 +26,8 @@ The BioHack Academy 3 release contains the following:
 
 The To Do's are tracked using the Issues section. Please maket more suggestions by posting there.
 
+* Replace the TSL1406R because of obsolescence. Currently testing the [TSL1401CL](https://nl.rs-online.com/web/p/photodetector-arrays/7857692/) as an alternative.
+
 ## License
 
 All code is licensed under GNU General Public License.
